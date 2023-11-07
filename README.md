@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Qwoyn)
 
 ### Glad to see you here! &nbsp; 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dpdanpittman.visitor-badge&left_color=green&right_color=red)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdpdanpittman&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdpdanpittman)
 
 I am a highly motivated software engineer with a passion for innovation and a proven track record of over a decade in the technology industry. My expertise spans across various programming languages, blockchain, smart contracts, embedded systems, and machine automation. I thrive in dynamic startup project environments, where I excel at aligning business and technology objectives to drive corporate growth and expansion.
 
