@@ -30,6 +30,7 @@ My exceptional communication, interpersonal negotiation, presentation, and probl
 </br>
 
 📊 **This Week I Spent My Time On:**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
