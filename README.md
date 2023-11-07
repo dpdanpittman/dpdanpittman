@@ -14,7 +14,7 @@ One of my strengths lies in understanding customer requirements and leading the 
 
 My exceptional communication, interpersonal negotiation, presentation, and problem-solving skills have been honed over the years, making me an asset in any deadline-driven environment. As the CEO of Qwoyn Studios, I bring my wealth of experience and passion for technology to lead our mission of revolutionizing the gaming industry through blockchain innovation. My dedication to delivering exceptional gaming experiences drives our vision forward, and I am committed to making Qwoyn Studios a leader in the field.
 
-<img align="right" alt="QWOYN VEDIC" src="https://github.com/dpdanpittman/dpdanpittman/img/QWOYN_ALIEN_Scientist_Vedic.png?raw=true" width="408" height="318" />
+<img align="right" alt="QWOYN VEDIC" src="https://raw.githubusercontent.com/dpdanpittman/dpdanpittman/main/img/QWOYN_ALIEN_Scientist_Vedic.png" width="408" height="318" />
 
 
 **My Current Situation:**
