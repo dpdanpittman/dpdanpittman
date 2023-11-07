@@ -31,13 +31,6 @@ My exceptional communication, interpersonal negotiation, presentation, and probl
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
-```txt
-YAML         32 mins         ██████████░░░░░░░░░░░░░░░   40.29 %
-Docker       31 mins         █████████▓░░░░░░░░░░░░░░░   39.24 %
-TypeScript   16 mins         █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-```
-
 <!--END_SECTION:waka-->
 
 
