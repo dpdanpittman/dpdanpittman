@@ -20,12 +20,12 @@ My exceptional communication, interpersonal negotiation, presentation, and probl
 **My Current Situation:**
 
 - I'm deeply engaged in various facets of our exciting project at Qwoyn Studios. As a software engineer, I take an active role in frontend development, ensuring that our platform offers an intuitive, visually appealing, and responsive user experience. Project management is another key aspect of my involvement; I work tirelessly to keep our development process on track, ensuring deadlines are met and our team stays focused on our goals. Additionally, I contribute to product design, ensuring that our gaming ecosystem delivers an enjoyable and engaging experience for our users.
-   - Beyond the technical aspects, I'm deeply involved in business development, actively seeking partnerships, collaborations, and opportunities that will fuel our growth and success. Lastly, I'm committed to our marketing efforts, helping to promote the Qwoyn Studios brand, attract users, and create awareness about our platform. These multifaceted roles reflect my dedication to our project's overarching vision and objectives, and I'm excited to drive its success in all these areas.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+- Beyond the technical aspects, I'm deeply involved in business development, actively seeking partnerships, collaborations, and opportunities that will fuel our growth and success. Lastly, I'm committed to our marketing efforts, helping to promote the Qwoyn Studios brand, attract users, and create awareness about our platform. These multifaceted roles reflect my dedication to our project's overarching vision and objectives, and I'm excited to drive its success in all these areas.
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning more in depth Golang and Keplr Wallet integrations
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on the Qwoyn Studios [medium](https://medium.com/@QwoynStudio)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: dpdanpittman@gmail.com
 
 </br>
 
