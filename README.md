@@ -25,6 +25,8 @@ My exceptional communication, interpersonal negotiation, presentation, and probl
 - I contribute to product design at Qwoyn Studios, ensuring that our gaming ecosystem delivers an enjoyable and engaging experience. Beyond technical development, I'm deeply involved in business development, actively seeking partnerships, collaborations, and opportunities that will fuel our growth and success. Additionally, I'm committed to our marketing efforts, helping to promote the Qwoyn Studios brand, attract users, and create awareness about our platform.
 - These multifaceted roles reflect my dedication to driving success across different sectors in the tech and blockchain industries, aligning with our overarching vision and objectives.
 
+---
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently deepening my expertise in Golang and Keplr Wallet integrations, while also focusing on learning the HashiCorp stack, which includes tools like Nomad, Vault, and Consul, to strengthen my skills in scalable and secure infrastructure management. Additionally, I am exploring Zabbix to enhance my capabilities in monitoring and managing networked systems.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on the Qwoyn Studios [medium](https://medium.com/@QwoynStudio)
