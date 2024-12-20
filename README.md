@@ -27,9 +27,6 @@ Over the years, my outstanding communication, negotiation, presentation, and pro
 
 ---
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently deepening my expertise in Golang and Keplr Wallet integrations, while also focusing on learning the HashiCorp stack, which includes tools like Nomad, Vault, and Consul, to strengthen my skills in scalable and secure infrastructure management. Additionally, I am exploring Zabbix to enhance my capabilities in monitoring and managing networked systems.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on the Qwoyn Studios [medium](https://medium.com/@QwoynStudio)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: dpdanpittman@gmail.com
 
 </br>
