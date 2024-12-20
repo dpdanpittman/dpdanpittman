@@ -33,7 +33,7 @@ Over the years, my outstanding communication, negotiation, presentation, and pro
 
 📈 **My GitHub Stats:**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpdanpittman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpdanpittman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 
 
