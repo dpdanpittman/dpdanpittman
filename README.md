@@ -29,11 +29,6 @@ Over the years, my outstanding communication, negotiation, presentation, and pro
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: dpdanpittman@gmail.com
 
-</br>
-
-📈 **My GitHub Stats:**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dpdanpittman&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical)
 
 
 
