@@ -18,7 +18,7 @@ One of my core strengths is my ability to deeply understand customer needs and s
 
 **My Current Situation:**
 
-- At the Informal Systems Staking Team, I serve as a DevOps engineer, focusing on enhancing the security and operational efficiency of our testnet validating processes. My role allows me to leverage my deep expertise in blockchain technology and system operations, ensuring high performance and reliability in real-world blockchain applications.
+- On the Informal Systems Staking Team, I serve as a DevOps engineer, focusing on enhancing the security and operational efficiency of our testnet validating processes. My role allows me to leverage my deep expertise in blockchain technology and system operations, ensuring high performance and reliability in real-world blockchain applications.
 
 ---
 
