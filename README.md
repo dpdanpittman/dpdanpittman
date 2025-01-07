@@ -22,6 +22,12 @@ One of my core strengths is my ability to deeply understand customer needs and s
 
 ---
 
+### Activity:
+
+![trophy](https://github-profile-trophy.vercel.app/?username=cadawg&theme=onestar&no-frame=true&no-bg=true&row=1&column=8)
+
+[![](https://streak-stats.demolab.com?user=CADawg&theme=tokyonight-duo&hide_border=false)](https://git.io/streak-stats)
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: dpdanpittman@gmail.com
 
 
