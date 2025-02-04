@@ -1,5 +1,3 @@
-### Hi, I'm Daniel Pittman 👋
-
 <div align="center">
   <a href="https://linkedin.com/in/mrpittman1">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
@@ -28,8 +26,6 @@ I'm a passionate software engineer with over a decade of experience in the tech 
 As a problem-solver, I focus on understanding customer needs, driving product development, and identifying process improvements to enhance team productivity and project outcomes. I currently work as a DevOps engineer with the Informal Systems Staking Team, where I optimize testnet validating processes to ensure blockchain application performance and reliability.
 
 ---
-
-### GitHub Activity:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
