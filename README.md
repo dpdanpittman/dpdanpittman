@@ -29,12 +29,6 @@ As a problem-solver, I focus on understanding customer needs, driving product de
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dpdanpittman/dpdanpittman/main/img/QWOYN_ALIEN_Scientist_Vedic.png" alt="QWOYN VEDIC" width="408" height="318">
-</p>
-
----
-
 ### GitHub Activity:
 
 <p align="center">
