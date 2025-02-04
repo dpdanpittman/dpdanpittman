@@ -23,9 +23,11 @@ One of my core strengths is my ability to deeply understand customer needs and s
 ---
 
 ### Activity:
-
+<center>
 ![trophy](https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5)
 
 ![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpdanpittman&theme=gruvbox) 
 ![repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpdanpittman&theme=gruvbox)
 ![commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpdanpittman&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpdanpittman&theme=gruvbox)
+</center>
