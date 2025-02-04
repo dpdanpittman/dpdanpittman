@@ -7,9 +7,6 @@
   <a href="https://twitter.com/dpdanpittman">
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://instagram.com/dp.__.dp/">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
   <a href="https://medium.com/@danpittman_41978/">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium">
   </a>
