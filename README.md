@@ -26,7 +26,7 @@ One of my core strengths is my ability to deeply understand customer needs and s
 
 [!][](https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=3&column=4)
 
-[!][](https://streak-stats.demolab.com?user=dpdanpittman&theme=tokyonight-duo&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dpdanpittman)](https://git.io/streak-stats)
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: dpdanpittman@gmail.com
 
