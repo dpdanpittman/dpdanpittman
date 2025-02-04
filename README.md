@@ -24,6 +24,6 @@ One of my core strengths is my ability to deeply understand customer needs and s
 
 ### Activity:
 
-[trophy](https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5)
+![trophy](https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5)
 
-[profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpdanpittman&theme=gruvbox)
+![profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpdanpittman&theme=gruvbox)
