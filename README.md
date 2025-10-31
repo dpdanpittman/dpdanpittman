@@ -6,9 +6,15 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 
 ### 🛠️ Languages & Tools
 
+#### Languages
+
 ![Go](https://img.shields.io/badge/-Golang-000?&logo=go)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+#### Tools
+
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Nomad](https://img.shields.io/badge/-Nomad-000?&logo=HashiCorp)
 ![Consul](https://img.shields.io/badge/-Consul-000?&logo=HashiCorp)
@@ -17,6 +23,16 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
 ![Signoz](https://img.shields.io/badge/-Signoz-000?&logo=data:image/svg+xml;base64,...)
+
+#### Artificial Intelligence
+
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)
+![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
 
 ---
 
