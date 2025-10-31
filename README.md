@@ -8,17 +8,25 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 
 #### Languages
 
-![Go](https://img.shields.io/badge/-Golang-000?&logo=go)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)
 
-#### Tools
+#### Tools and Frameworks
 
 ![Nomad](https://img.shields.io/badge/-Nomad-000?&logo=HashiCorp)
 ![Consul](https://img.shields.io/badge/-Consul-000?&logo=HashiCorp)
 ![Vault](https://img.shields.io/badge/-Vault-000?&logo=Vault)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
 ![Signoz](https://img.shields.io/badge/-Signoz-000?&logo=data:image/svg+xml;base64,...)
 ![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)
@@ -26,6 +34,14 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+
 
 #### Operating Systems
 
@@ -55,7 +71,7 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
 ![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
-[Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)
 
 ---
 
