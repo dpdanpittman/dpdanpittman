@@ -15,17 +15,29 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 
 #### Tools
 
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 ![Nomad](https://img.shields.io/badge/-Nomad-000?&logo=HashiCorp)
 ![Consul](https://img.shields.io/badge/-Consul-000?&logo=HashiCorp)
 ![Vault](https://img.shields.io/badge/-Vault-000?&logo=Vault)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?&logo=Zabbix)
 ![Signoz](https://img.shields.io/badge/-Signoz-000?&logo=data:image/svg+xml;base64,...)
+![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+
+#### Operating Systems
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 #### Artificial Intelligence
 
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)
@@ -33,6 +45,17 @@ I'm a senior blockchain infrastructure engineer with 10+ years of experience bui
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 ![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)
 ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)
+
+#### Cloud Infrastructure Providers
+
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)
+![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+[Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
 
 ---
 
