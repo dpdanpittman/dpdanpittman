@@ -1,6 +1,6 @@
 ## Hey 👋
 
-I'm a senior blockchain infrastructure engineer with 10+ years of experience building and operating blockchain infrastructure. Currently working at **[Informal Systems](https://informal.systems)**, where I focus on taking networks from **devnet to mainnet**, optimizing validators, and running **production mainnet nodes**.
+I'm a Senior Blockchain Infrastructure Engineer with 10+ years of experience building and operating blockchain infrastructure. Currently working with the greatest minds at **[Informal Systems](https://informal.systems)**, where I focus on taking networks from **devnet to mainnet**, optimizing validators, and running **production mainnet nodes**.
 
 ---
 
