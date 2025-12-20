@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=10%2B+Years+Building+Blockchain+Infrastructure;Devnet+to+Mainnet+Specialist;Production+Validator+Operations+Expert;Cosmos+SDK+%7C+CometBFT+%7C+EVM+%7C+Bitcoin" alt="Typing SVG" />
 
-</div>
-
----
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Pittman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrpittman1)
 [![Twitter](https://img.shields.io/badge/Twitter-@dpdanpittman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dpdanpittman)
 [![Medium](https://img.shields.io/badge/Medium-Dan_Pittman-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danpittman_41978/)
@@ -30,6 +24,10 @@ Senior Blockchain Infrastructure Engineer at **[Informal Systems](https://inform
 - 🔧 **DevOps Excellence**: Automating deployment, monitoring, and maintenance of distributed systems
 - 🌐 **Multi-Chain Expertise**: Deep experience with Cosmos SDK, CometBFT, EVM chains, Bitcoin, Ethereum, and Solana
 - 🤖 **AI Integration**: Leveraging LLMs and automation to enhance blockchain operations and development workflows
+
+### 🏛️ Leadership & Recognition
+
+**Appointed by Governor of Montana** to the **Blockchain and Digital Innovation Task Force** — advising on blockchain policy, regulation, and innovation strategies at the state level.
 
 > **Currently**: Taking networks from concept to production, ensuring 99.99% uptime, and pushing the boundaries of what's possible in decentralized infrastructure.
 
@@ -164,9 +162,10 @@ Senior Blockchain Infrastructure Engineer at **[Informal Systems](https://inform
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
-</p>
 
+  <img src="https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
+
+</p>
 
 ---
 
@@ -292,9 +291,10 @@ I'm always interested in connecting with fellow blockchain engineers, protocol d
 
 ### ⚡ Fun Facts
 
-- 🎯 Have deployed validators on 50+ blockchain networks
-- 🔧 Automated deployment reduces launch time from days to hours
-- 📚 Constantly learning and experimenting with new protocols
+- 🏛️ Appointed by Governor of Montana to state Blockchain & Digital Innovation Task Force
+- 🎯 Deployed validators on 25+ blockchain networks across multiple ecosystems
+- 🔧 Automated deployment reduces network launch time from days to hours
+- 📚 Constantly learning and experimenting with emerging protocols
 - 🌍 Contributing to the decentralization of the internet, one node at a time
 - 🤖 Leveraging AI to enhance DevOps and blockchain operations
 
