@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=10%2B+Years+Building+Blockchain+Infrastructure;Devnet+to+Mainnet+Specialist;Production+Validator+Operations+Expert;Cosmos+SDK+%7C+CometBFT+%7C+EVM+%7C+Bitcoin" alt="Typing SVG" />
 
+</div>
+
+---
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Pittman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrpittman1)
 [![Twitter](https://img.shields.io/badge/Twitter-@dpdanpittman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dpdanpittman)
 [![Medium](https://img.shields.io/badge/Medium-Dan_Pittman-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@danpittman_41978/)
@@ -157,11 +163,10 @@ Senior Blockchain Infrastructure Engineer at **[Informal Systems](https://inform
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=6)
-
-</div>
 
 ---
 
