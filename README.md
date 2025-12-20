@@ -291,12 +291,12 @@ I'm always interested in connecting with fellow blockchain engineers, protocol d
 
 ### ⚡ Fun Facts
 
-🏛️ Appointed by Governor of Montana to state Blockchain & Digital Innovation Task Force
-🎯 Deployed validators on 25+ blockchain networks across multiple ecosystems
-🔧 Automated deployment reduces network launch time from days to hours
-📚 Constantly learning and experimenting with emerging protocols
-🌍 Contributing to the decentralization of the internet, one node at a time
-🤖 Leveraging AI to enhance DevOps and blockchain operations
+- 🏛️ Appointed by Governor of Montana to state Blockchain & Digital Innovation Task Force
+- 🎯 Deployed validators on 25+ blockchain networks across multiple ecosystems
+- 🔧 Automated deployment reduces network launch time from days to hours
+- 📚 Constantly learning and experimenting with emerging protocols
+- 🌍 Contributing to the decentralization of the internet, one node at a time
+- 🤖 Leveraging AI to enhance DevOps and blockchain operations
 
 ---
 
