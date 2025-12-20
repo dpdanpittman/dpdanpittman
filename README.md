@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🚀 Dan Pittman | Senior Blockchain Infrastructure Engineer
+# 🚀 Daniel Pittman 
+# Senior Blockchain Infrastructure Engineer
 
 ### Building the Future of Decentralized Infrastructure, One Block at a Time
 
