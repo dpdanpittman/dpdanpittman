@@ -174,11 +174,6 @@ Senior Blockchain Infrastructure Engineer at **[Informal Systems](https://inform
 
 <div align="center">
 
-<a href="https://github.com/dpdanpittman">
-  <img height="180em" src="https://github-readme-stats-8vv79lpyv-daniel-pittmans-projects.vercel.app/api?username=dpdanpittman&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats-8vv79lpyv-daniel-pittmans-projects.vercel.app/api/top-langs/?username=dpdanpittman&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0d1117"/>
-</a>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpdanpittman&theme=algolia&hide_border=true&background=0d1117" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpdanpittman&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Contribution Graph" />
