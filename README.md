@@ -164,7 +164,7 @@ Senior Blockchain Infrastructure Engineer at **[Informal Systems](https://inform
 
 <p align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy-61shnvpg1-ryo-ma-s-team.vercel.app/?username=dpdanpittman&theme=onedark&row=2&column=5" alt="GitHub Trophy">
 
 </p>
 
