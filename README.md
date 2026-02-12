@@ -5,7 +5,7 @@
 
 ### Building the Future of Decentralized Infrastructure, One Block at a Time
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=10%2B+Years+Building+Blockchain+Infrastructure;Devnet+to+Mainnet+Specialist;Production+Validator+Operations+Expert;Cosmos+SDK+%7C+CometBFT+%7C+EVM+%7C+Bitcoin" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=140&lines=10%2BYears+Building+Blockchain+Infrastructure;Devnet+to+Mainnet+Specialist;Production+Validator+Operations+Expert;Cosmos+SDK+%7C+CometBFT+%7C+EVM+%7C+Bitcoin" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dan_Pittman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrpittman1)
 [![Twitter](https://img.shields.io/badge/Twitter-@dpdanpittman-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dpdanpittman)
